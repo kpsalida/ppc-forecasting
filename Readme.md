@@ -46,8 +46,8 @@ Notebooks where we performed the Exploratory Data Analysis that is depicted in t
 ## Notebooks RNN
 ___
 Parameters that affecting the outcome of the neural network (NN)
-- Incorporated <span style="text-decoration: underline;">temporal features</span> like the time of day, day of week and month. Also flagged days being holidays and weekends
-- Hour, DayofWeek and Month were transformed <u>cyclically</u>, so as to ensure that the algorithms understand cyclic recurrence over time
+- Incorporated **temporal features** like the time of day, day of week and month. Also flagged days being holidays and weekends
+- Hour, DayofWeek and Month were transformed **cyclically**, so as to ensure that the algorithms understand cyclic recurrence over time
 - Experimented with :
        - The architecture of the NN 
        - Lagging of the observations - periodicity dependency
@@ -64,7 +64,7 @@ ___
 | **MAE**       | 15.53        | 16.33        | 14.61        | **11.87**  | **9.84** | **9.78** |
 
 
-It is notable that we were able to train models which, by utilizing the predictions of the three forecasters, provide us with better forecasts for future energy prices. We recorded our experiments and results through the online platform <u> Neptune.ai</u>, which greatly assisted us in organizing and leveraging the results.
+It is notable that we were able to train models which, by utilizing the predictions of the three forecasters, provide us with better forecasts for future energy prices. We recorded our experiments and results through the online platform **Neptune.ai**, which greatly assisted us in organizing and leveraging the results.
 
 
 ## Participants
