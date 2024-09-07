@@ -64,7 +64,9 @@ ___
 | **MAE**       | 15.53        | 16.33        | 14.61        | **11.87**  | **9.84** | **9.78** |
 
 
-It is notable that we were able to train models which, by utilizing the predictions of the three forecasters, provide us with better forecasts for future energy prices. We recorded our experiments and results through the online platform **Neptune.ai**, which greatly assisted us in organizing and leveraging the results.
+It is notable that we were able to train models which, by utilizing the predictions of the three forecasters, provide us with better forecasts for future energy prices. 
+
+We recorded our experiments and results through the online platform **Neptune.ai**, which greatly assisted us in organizing and leveraging the results.
 
 
 ## Participants
