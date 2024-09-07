@@ -55,7 +55,7 @@ Parameters that affecting the outcome of the neural network (NN)
 
 ## Final Prediction
 ___
-!(C:\\Users\\kathe\\Documents\\\$user\\MINE\\GitHubProjects\\ppc-forecasting\\Notebooks RNN\\FinalPrediction.png)
+![Final Prediction](FinalPrediction.png)
 
 ## Conclusions
 ___
