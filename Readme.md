@@ -46,7 +46,7 @@ Notebooks where we performed the Exploratory Data Analysis that is depicted in t
 ## Notebooks RNN
 ___
 Parameters that affecting the outcome of the neural network (NN)
-- Incorporated <u>temporal features</u> like the time of day, day of week and month. Also flagged days being holidays and weekends
+- Incorporated <span style="text-decoration: underline;">temporal features</span> like the time of day, day of week and month. Also flagged days being holidays and weekends
 - Hour, DayofWeek and Month were transformed <u>cyclically</u>, so as to ensure that the algorithms understand cyclic recurrence over time
 - Experimented with :
        - The architecture of the NN 
