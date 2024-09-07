@@ -49,9 +49,10 @@ Parameters that affecting the outcome of the neural network (NN)
 - Incorporated **temporal features** like the time of day, day of week and month. Also flagged days being holidays and weekends
 - Hour, DayofWeek and Month were transformed **cyclically**, so as to ensure that the algorithms understand cyclic recurrence over time
 - Experimented with :
-       - The architecture of the NN 
-       - Lagging of the observations - periodicity dependency
-       - Learning dependency of the algorithm from Batch size and epochs 
+
+- The architecture of the NN 
+- Lagging of the observations - periodicity dependency
+- Learning dependency of the algorithm from Batch size and epochs 
 
 ## Final Prediction
 ___
