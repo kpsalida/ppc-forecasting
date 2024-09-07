@@ -56,7 +56,6 @@ Parameters that affecting the outcome of the neural network (NN)
 ## Final Prediction
 ___
 ![Final Prediction](FinalPrediction.png)
-
 ## Conclusions
 ___
 |               | Forecaster 1 | Forecaster 2 | Forecaster 3 | Light GBM  | LSTM   | GRU    |
