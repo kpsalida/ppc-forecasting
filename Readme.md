@@ -50,9 +50,9 @@ Parameters that affecting the outcome of the neural network (NN)
 - Hour, DayofWeek and Month were transformed **cyclically**, so as to ensure that the algorithms understand cyclic recurrence over time
 - Experimented with :
 
-- The architecture of the NN 
-- Lagging of the observations - periodicity dependency
-- Learning dependency of the algorithm from Batch size and epochs 
+    - The architecture of the NN 
+    - Lagging of the observations - periodicity dependency
+    - Learning dependency of the algorithm from Batch size and epochs 
 
 ## Final Prediction
 ___
