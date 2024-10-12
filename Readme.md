@@ -41,11 +41,11 @@ Notebooks where we performed the Exploratory Data Analysis that is depicted in t
 -  Monthly Analysis of average actual prices
 -  Hourly analysis if average actual energy prices
 -  Association with major worldwide events affecting energy prices
--  Comparative analysis of mean deviations of the three forecater energy prices vs. actual prices
+-  Comparative analysis of mean deviations of the three forecaster energy prices vs. actual prices
 
 ## Notebooks RNN
 ___
-Parameters that affecting the outcome of the neural network (NN)
+Parameters that are affecting the outcome of the neural network (NN)
 - Incorporated **temporal features** like the time of day, day of week and month. Also flagged days being holidays and weekends
 - Hour, DayofWeek and Month were transformed **cyclically**, so as to ensure that the algorithms understand cyclic recurrence over time
 - Experimented with :
